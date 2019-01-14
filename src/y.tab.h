@@ -1,0 +1,10 @@
+#define NUMBER 257
+#define ADD 258
+#define SUB 259
+#define MUL 260
+#define DIV 261
+#define ABS 262
+#define EOL 263
+#define OP 264
+#define CP 265
+#define BITAND 266
